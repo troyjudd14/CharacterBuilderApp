@@ -1,0 +1,31 @@
+@model CharacterBuilderApp.Models.CharacterCreateInput
+@{
+    ViewData["Title"] = "Create Character";
+}
+
+<h1>Create Character</h1>
+
+<form asp-action="Create" method="post">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Class"></label>
+        <select asp-for="Class" asp-items="Html.GetEnumSelectList<CharacterBuilderApp.Models.CharacterClass>()" class="form-control">
+            <option dropdown value="">-- Select Class --</option>
+        </select>
+        <span asp-validation-for="Class" class="text-danger"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Create</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

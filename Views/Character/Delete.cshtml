@@ -1,0 +1,21 @@
+@model CharacterBuilderApp.Models.Character
+
+@{
+    ViewData["Title"] = "Delete Character";
+}
+
+<h1>Delete Character</h1>
+
+<div class="alert alert-danger">
+    <h4>Are you sure you want to delete this character?</h4>
+    <p><strong>Name:</strong> @Model.Name</p>
+    <p><strong>Class:</strong> @Model.Class</p>
+    <p><strong>Level:</strong> @Model.Level</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+

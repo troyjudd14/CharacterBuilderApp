@@ -1,0 +1,13 @@
+@model CharacterBuilderApp.Models.Character
+
+@{
+    ViewData["Title"] = "Character Details";
+}
+
+<h1>Character Details</h1>
+
+<p><strong>Name:</strong> @Model.Name</p>
+<p><strong>Class:</strong> @Model.Class</p>
+<p><strong>Level:</strong> @Model.Level</p>
+
+<a asp-action="Index" class="btn btn-primary">Back to List</a>
