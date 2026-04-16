@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharacterBuilderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e9e7da79caf996f59dc23ede76d679dff0fc7e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d99a621cb9e343c64d8aa16535437473908e8f36")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharacterBuilderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharacterBuilderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
