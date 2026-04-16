@@ -209,3 +209,4 @@
 /Users/troyjudd/Projects/CharacterBuilderApp/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/troyjudd/Projects/CharacterBuilderApp/obj/Debug/net9.0/CharacterBuilderApp.csproj.AssemblyReference.cache
 /Users/troyjudd/Projects/CharacterBuilderApp/obj/Debug/net9.0/Characte.A9F6C06C.Up2Date
+/Users/troyjudd/Projects/CharacterBuilderApp/obj/Debug/net9.0/CharacterBuilderApp.sourcelink.json

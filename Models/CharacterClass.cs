@@ -5,9 +5,10 @@ namespace CharacterBuilderApp.Models
         Warrior,
         Mage,
         Archer,
-        Engineer,        
+        Engineer,
         Assassin,
         Bard,
-        Paladin
+        Paladin,
+        Rogue
     }
 }

@@ -1,5 +1,4 @@
 using CharacterBuilderApp.Models;
-using CharacterBuilderApp.Data;
 using Microsoft.EntityFrameworkCore;
 using CharacterBuilderApp.Repositories;
 
