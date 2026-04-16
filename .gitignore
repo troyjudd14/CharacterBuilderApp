@@ -1,0 +1,33 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# IDE/editor
+.vs/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Local database artifacts (if you still run SQLite locally at times)
+*.db
+*.db-shm
+*.db-wal
+
+# Test and coverage artifacts
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish output
+publish/
