@@ -8,7 +8,7 @@ namespace CharacterBuilderApp.Models
 
         [Required]
         [StringLength(30, MinimumLength = 1)]
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
 
         [Required]
         public CharacterClass? Class { get; set; }
