@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("71ca6bbb-fa05-4b0b-8de8-252c68619472")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharacterBuilderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93c165d60375a9ec06591b881b8248d8673835b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e9e7da79caf996f59dc23ede76d679dff0fc7e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharacterBuilderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharacterBuilderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

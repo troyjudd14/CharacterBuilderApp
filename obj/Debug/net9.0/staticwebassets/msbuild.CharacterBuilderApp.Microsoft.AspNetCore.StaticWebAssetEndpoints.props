@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CharacterBuilderApp.zzhxlqr67k.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-X\u002BbZNotLVUMbGxPftkdTrmSo8LijXXv9NBSpb5J32IM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1088"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022X\u002BbZNotLVUMbGxPftkdTrmSo8LijXXv9NBSpb5J32IM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 22:21:45 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1088"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022X\u002BbZNotLVUMbGxPftkdTrmSo8LijXXv9NBSpb5J32IM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Apr 2026 21:50:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CharacterBuilderApp/CharacterBuilderApp.zzhxlqr67k.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CharacterBuilderApp.zzhxlqr67k.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zzhxlqr67k"},{"Name":"integrity","Value":"sha256-X\u002BbZNotLVUMbGxPftkdTrmSo8LijXXv9NBSpb5J32IM="},{"Name":"label","Value":"_content/CharacterBuilderApp/CharacterBuilderApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1088"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022X\u002BbZNotLVUMbGxPftkdTrmSo8LijXXv9NBSpb5J32IM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Apr 2026 22:21:45 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1088"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022X\u002BbZNotLVUMbGxPftkdTrmSo8LijXXv9NBSpb5J32IM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Apr 2026 21:50:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CharacterBuilderApp/css/site.b9sayid5wm.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
