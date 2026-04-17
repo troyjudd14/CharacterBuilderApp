@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharacterBuilderApp.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e9e7da79caf996f59dc23ede76d679dff0fc7e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46b2a77ebeafba0473624852dd1e808ad9b05562")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharacterBuilderApp.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharacterBuilderApp.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
